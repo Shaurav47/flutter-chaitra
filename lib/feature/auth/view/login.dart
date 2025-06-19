@@ -32,7 +32,7 @@ class _LoginState extends State<Login> {
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('Welcome to Shaw shop', style: Theme.of(context).textTheme.headlineSmall),
+                    Text('Welcome to Shaw Shop', style: Theme.of(context).textTheme.headlineSmall),
                     Text('Login Now', style: Theme.of(context).textTheme.headlineSmall),
                   ],
                 ),
